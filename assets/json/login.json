@@ -1,0 +1,14 @@
+{
+  "status": true,
+  "message": "Login successful",
+  "data": {
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxMSIsImp0aSI6ImJlOWM3NTRhOWQ5ZTEyYjMxYTY3MTRhYTY4MWE1MjFiYjRkYmQwYTQyZmU0YzAxNjVlYTA1M2JlNWM3OTViMWI5MmU0NGI5NWE5ZWJhOGU2IiwiaWF0IjoxNzAxMDAwNTYwLjk5MzEwNywibmJmIjoxNzAxMDAwNTYwLjk5MzExLCJleHAiOjE3MzI2MjI5NjAuODgyNDMsInN1YiI6IjgiLCJzY29wZXMiOltdfQ.oPC19I0FwhGh6ADFF5YzfOo-6-YgS-m36STdchS2LwDJaD2y33KsQfiMXXd3-AKCShGmTU-3Pod4ElQmdP4nXI8nVEHungeRBfuWWZ9O1dLQPCEpKr3MjPsdXkx1z9pJFGXYcgoxh5ntA4NW_7MYgD97If3xlpgoEcu1_FWJDlm3amIyIvZRRj5E-MyAvXr9D42qKNchE9O6YMSjnTvOijIylNK6_eaTMPxdGBQzFTcjA85nyJgWxz97iFmkeHUuUHR9UiQ3DA5sAQdOr0iTJS6dy408sm_cbUmUgZ3WHZHQGdKu26o5nTkL6iJJdTCq-Av-9uFAefLNYnJTKWDZ0KM4NA5qtM-WCwm06YyLSCdhjgTg-KgH6_hkvBHESdI3eGtUQ1yJmNUysqVTwbHokDpFYIziS-Gp5f_oSFRd85S2iQ1wXW_PtgE8tXy986-gPsqwOMYjXrR-dnMH8nxyLSIO_etTW_ovmwkOKOTxiNetFRuISARCp5AQDUNFcHJveR_Nvj0rfQbGlUo1YjgoqbkjaZZi0ehs7weGMsWR_lU7rIMikXQDqbB2kUCN6rveS0PMBcayJV5qhHlx4x0z5YYu9MfPur_tijr6Qxjp2iAfK6wAeXY4Ys1sozqqLDxS9v6SLjf6eZOXQI0RrtF9Yq-wwq4MsaAAe5J_ElO-LuY",
+    "user": {
+      "id": 8,
+      "role_id": "s",
+      "name": "abdul",
+      "email": "abdul@rasutaenergy.com"
+    }
+  },
+  "total": 2
+}
